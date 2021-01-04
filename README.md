@@ -8,7 +8,7 @@
 
 <img align="left" alt="C" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" />
 <img align="left" alt="Rust" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-
+<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,6 +33,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [We Made 8086 Emulator In Rust and Integrated it with React using WASM](https://dev.to/yjdoc2/we-made-8086-emulator-in-rust-and-integrated-it-with-react-using-wasm-742)
 - [How do you pace yourself when working on an interesting project?](https://dev.to/yjdoc2/how-do-you-pace-yourself-when-working-on-an-interesting-project-12ec)
 - [What is your Emulator,Shell and Prompt setup?](https://dev.to/yjdoc2/what-is-your-emulator-shell-and-prompt-setup-2pmk)
@@ -43,6 +44,3 @@
 ➡️ [more blog posts...](https://dev.to/yjdoc2)
 
 ---
-
-[website]: https://codeSTACKr.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
