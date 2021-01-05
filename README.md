@@ -2,7 +2,13 @@
 
 ## I'm a Curious Student interested in Physics and Computers!
 
-<br />
+---
+
+- I am interested in Operating Systems and Compilers
+- I find Theory of General Relativity Fascinating
+- I am currently learning - a lot of things :)
+- I like to write clean, maintainable, robust code, even if it takes a little more time ;)
+  <br />
 
 ### Languages and Tools:
 
@@ -33,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [We Made 8086 Emulator In Rust and Integrated it with React using WASM](https://dev.to/yjdoc2/we-made-8086-emulator-in-rust-and-integrated-it-with-react-using-wasm-742)
 - [How do you pace yourself when working on an interesting project?](https://dev.to/yjdoc2/how-do-you-pace-yourself-when-working-on-an-interesting-project-12ec)
 - [What is your Emulator,Shell and Prompt setup?](https://dev.to/yjdoc2/what-is-your-emulator-shell-and-prompt-setup-2pmk)
