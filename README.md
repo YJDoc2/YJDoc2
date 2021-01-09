@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Under the Hood : The Main Function](https://dev.to/yjdoc2/under-the-hood-the-main-function-5l8)
 - [We Made 8086 Emulator In Rust and Integrated it with React using WASM](https://dev.to/yjdoc2/we-made-8086-emulator-in-rust-and-integrated-it-with-react-using-wasm-742)
 - [How do you pace yourself when working on an interesting project?](https://dev.to/yjdoc2/how-do-you-pace-yourself-when-working-on-an-interesting-project-12ec)
 - [What is your Emulator,Shell and Prompt setup?](https://dev.to/yjdoc2/what-is-your-emulator-shell-and-prompt-setup-2pmk)
 - [What is Aggregation in MongoDB](https://dev.to/yjdoc2/what-is-aggregation-in-mongodb-589c)
-- [Setting Up LaTex](https://dev.to/yjdoc2/setting-up-latex-3104)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/yjdoc2)
