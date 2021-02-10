@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make a Combined Library and Binary Project in Rust](https://dev.to/yjdoc2/make-a-combined-library-and-binary-project-in-rust-d4f)
 - [What is your preferred medium of learning : Books, Blogs or Videos?](https://dev.to/yjdoc2/what-is-your-preferred-medium-of-learning-books-blogs-or-videos-4mbi)
 - [Under the Hood : The Main Function](https://dev.to/yjdoc2/under-the-hood-the-main-function-5l8)
 - [We Made 8086 Emulator In Rust and Integrated it with React using WASM](https://dev.to/yjdoc2/we-made-8086-emulator-in-rust-and-integrated-it-with-react-using-wasm-742)
 - [How do you pace yourself when working on an interesting project?](https://dev.to/yjdoc2/how-do-you-pace-yourself-when-working-on-an-interesting-project-12ec)
-- [What is your Emulator,Shell and Prompt setup?](https://dev.to/yjdoc2/what-is-your-emulator-shell-and-prompt-setup-2pmk)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/yjdoc2)
