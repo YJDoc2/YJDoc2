@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the thing you wish you had known when you started learning Rust?](https://dev.to/yjdoc2/what-is-the-thing-you-wish-you-had-known-when-you-started-learning-rust-2p1i)
+- [What are some things you wish you had known when you started learning Rust?](https://dev.to/yjdoc2/what-is-the-thing-you-wish-you-had-known-when-you-started-learning-rust-2p1i)
 - [Make a Combined Library and Binary Project in Rust](https://dev.to/yjdoc2/make-a-combined-library-and-binary-project-in-rust-d4f)
 - [What is your preferred medium of learning : Books, Blogs or Videos?](https://dev.to/yjdoc2/what-is-your-preferred-medium-of-learning-books-blogs-or-videos-4mbi)
 - [Under the Hood : The Main Function](https://dev.to/yjdoc2/under-the-hood-the-main-function-5l8)
