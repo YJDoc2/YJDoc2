@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Networks, Made interactive](https://dev.to/yjdoc2/computer-networks-made-interactive-37ge)
 - [Shnippet : minimal shell snippet manager made in Rust](https://dev.to/yjdoc2/shnippet-minimal-shell-snippet-manager-made-in-rust-3m19)
 - [A Simple Particle Simulator in C++ and OpenGL](https://dev.to/yjdoc2/a-simple-particle-simulator-in-c-and-opengl-2p84)
 - [What are some things you wish you had known when you started learning Rust?](https://dev.to/yjdoc2/what-is-the-thing-you-wish-you-had-known-when-you-started-learning-rust-2p1i)
 - [Make a Combined Library and Binary Project in Rust](https://dev.to/yjdoc2/make-a-combined-library-and-binary-project-in-rust-d4f)
-- [What is your preferred medium of learning : Books, Blogs or Videos?](https://dev.to/yjdoc2/what-is-your-preferred-medium-of-learning-books-blogs-or-videos-4mbi)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/yjdoc2)
