@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Used KDE Plasma to Make Ubuntu Look (Somewhat) like MacOS](https://dev.to/yjdoc2/i-used-kde-plasma-to-make-ubuntu-look-somewhat-like-macos-53j9)
 - [How to squash commits in a PR](https://dev.to/dj-unicode/how-to-squash-commits-in-a-pr-e8i)
 - [Completely Oxidizing My Terminal Setup](https://dev.to/yjdoc2/completely-oxidizing-my-terminal-setup-43d8)
 - [How to create a new react npm package?](https://dev.to/yjdoc2/how-to-create-a-new-react-npm-package-45g5)
 - [Computer Networks, Made interactive](https://dev.to/yjdoc2/computer-networks-made-interactive-37ge)
-- [Shnippet : minimal shell snippet manager made in Rust](https://dev.to/yjdoc2/shnippet-minimal-shell-snippet-manager-made-in-rust-3m19)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/yjdoc2)
