@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Rust macro which will derive Bytecode for you](https://dev.to/yjdoc2/a-rust-macro-which-will-derive-bytecode-for-you-556n)
 - [How many &lpar;Human&rpar; Languages you know?](https://dev.to/yjdoc2/how-many-human-languages-you-know-115g)
 - [I Used KDE Plasma to Make Ubuntu Look &lpar;Somewhat&rpar; like MacOS](https://dev.to/yjdoc2/i-used-kde-plasma-to-make-ubuntu-look-somewhat-like-macos-53j9)
 - [How to squash commits in a PR](https://dev.to/dj-unicode/how-to-squash-commits-in-a-pr-e8i)
 - [Completely Oxidizing My Terminal Setup](https://dev.to/yjdoc2/completely-oxidizing-my-terminal-setup-43d8)
-- [How to create a new react npm package?](https://dev.to/yjdoc2/how-to-create-a-new-react-npm-package-45g5)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/yjdoc2)
