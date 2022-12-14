@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Youki 0.4.0 🎉🎉🎉](https://dev.to/yjdoc2/announcing-youki-040-ocn)
 - [What is stopping you from learning C?](https://dev.to/yjdoc2/what-is-stopping-you-from-learning-c-272k)
 - [Introducing PCB-rs : Making it easier to write hardware](https://dev.to/yjdoc2/introducing-pcb-rs-making-it-easier-to-write-hardware-397m)
 - [What is keeping you from dabbling in writing Hardware ?](https://dev.to/yjdoc2/what-is-keeping-you-from-dabbling-in-writing-hardware--1k1e)
 - [A Rust macro which will derive Bytecode for you](https://dev.to/yjdoc2/a-rust-macro-which-will-derive-bytecode-for-you-556n)
-- [How many &lpar;Human&rpar; Languages you know?](https://dev.to/yjdoc2/how-many-human-languages-you-know-115g)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/yjdoc2)
