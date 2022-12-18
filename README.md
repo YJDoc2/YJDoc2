@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Youki 0.4.0 🎉🎉🎉](https://dev.to/yjdoc2/announcing-youki-040-ocn)
+- [Announcing Youki 0.0.4 🎉🎉🎉](https://dev.to/yjdoc2/announcing-youki-040-ocn)
 - [What is stopping you from learning C?](https://dev.to/yjdoc2/what-is-stopping-you-from-learning-c-272k)
 - [Introducing PCB-rs : Making it easier to write hardware](https://dev.to/yjdoc2/introducing-pcb-rs-making-it-easier-to-write-hardware-397m)
 - [What is keeping you from dabbling in writing Hardware ?](https://dev.to/yjdoc2/what-is-keeping-you-from-dabbling-in-writing-hardware--1k1e)
