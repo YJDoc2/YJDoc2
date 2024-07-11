@@ -1,8 +1,6 @@
 ### Hi there, I'm Yashodhan 👋
 
-## I'm a Curious Student interested in Physics and Computers!
-
----
+## I'm a curious student interested in Physics and Computers!
 
 - I am interested in Operating Systems and Compilers
 - I find Theory of General Relativity Fascinating
@@ -32,20 +30,8 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
 
-### 📕 Latest Blog Posts
+I write blogs at [dev.to](https://dev.to/yjdoc2) and [LogRocket](https://blog.logrocket.com/author/yashodhan-joshi/). Check out more about me at [my website](https://yjdoc2.github.io/).
 
-<!-- BLOG-POST-LIST:START -->
-- [Two Rust features that I miss in Other languages](https://dev.to/yjdoc2/two-rust-features-that-i-miss-in-other-languages-7ec)
-- [Announcing Youki 0.0.4 🎉🎉🎉](https://dev.to/yjdoc2/announcing-youki-040-ocn)
-- [What is stopping you from learning C?](https://dev.to/yjdoc2/what-is-stopping-you-from-learning-c-272k)
-- [Introducing PCB-rs : Making it easier to write hardware](https://dev.to/yjdoc2/introducing-pcb-rs-making-it-easier-to-write-hardware-397m)
-- [What is keeping you from dabbling in writing Hardware ?](https://dev.to/yjdoc2/what-is-keeping-you-from-dabbling-in-writing-hardware--1k1e)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/yjdoc2)
-
----
